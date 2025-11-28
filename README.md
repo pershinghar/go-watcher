@@ -1,2 +1,3 @@
-# go-lbs
-my own GO experimental app (mostly) for loadbalancers
+# go-watcher
+A Go application for watching and detecting changes in large routing files using efficient hashing.
+experiment - beta

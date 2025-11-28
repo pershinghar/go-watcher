@@ -8,6 +8,10 @@
 *.so
 *.dylib
 
+=======
+# Go build binaries
+go-watcher
+
 # Test binary, built with `go test -c`
 *.test
 
@@ -30,3 +34,6 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# data files - big
+.data/
